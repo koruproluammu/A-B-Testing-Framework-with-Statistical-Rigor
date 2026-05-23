@@ -166,7 +166,7 @@ This project demonstrates how statistical experimentation can be used to:
 
 # Author
 
-Amrutha Koruprolu
+Koruprolu Venkata Amrutha Varshini
 
 * AI & Data Science Student
 * Python Developer
